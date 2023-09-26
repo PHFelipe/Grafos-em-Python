@@ -11,7 +11,7 @@ O repositório inclui as seguintes funcionalidades:
 
 ## Uso 💻👈
 
-Para usar as funcionalidades deste repositório, é necessário importar a biblioteca bibgrafo, que foi desenvolvida e implementada pelo professor da disciplina. Os arquivos originais podem ser encontrados no repositório do [Professor](github.com/henriquecunha2/atividades_grafos). Neste repositório, estão apenas implementações das atividades sugeridas ao longo da disciplina.
+Para usar as funcionalidades deste repositório, é necessário importar a biblioteca bibgrafo, que foi desenvolvida e implementada pelo professor da disciplina. Neste repositório, estão apenas implementações das atividades sugeridas ao longo da disciplina.
 
 ## Contribuições 🧩
 
